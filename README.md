@@ -23,4 +23,5 @@ Serverless created a new folder with inside a basic NodeJS service. The principa
     handlers.js: it does contain the NodeJS application
     
 To Deploy
+
 $ serverless deploy
