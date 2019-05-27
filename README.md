@@ -1,5 +1,5 @@
 # aws-serverless
-Simple serverless application using AWS
+Simple serverless application using AWS Lambda and DynamoDB
 
 Install Serverless
 
